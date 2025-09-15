@@ -6,7 +6,7 @@ Expense Tracker – Tkinter/ttkbootstrap GUI (single-file app)
 • Beautiful UI: uses ttkbootstrap if available; otherwise falls back to standard ttk.
 • Python stdlib only + optional ttkbootstrap. No other dependencies.
 
-Run:  python expense_tracker.py
+Run:  python Python Expense Tracker.py
 
 """
 from __future__ import annotations
@@ -596,4 +596,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
