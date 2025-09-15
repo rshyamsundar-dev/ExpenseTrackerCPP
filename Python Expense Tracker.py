@@ -8,7 +8,6 @@ Expense Tracker – Tkinter/ttkbootstrap GUI (single-file app)
 
 Run:  python expense_tracker.py
 
-Author: ChatGPT
 """
 from __future__ import annotations
 
@@ -597,3 +596,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
